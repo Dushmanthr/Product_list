@@ -1,0 +1,17 @@
+.hero_section{
+    background: var(--hero-bg);
+}
+
+.hero_img{
+    max-width: 100px;
+    max-height: 100px;
+    float:inline-end;
+    margin-top: 0;
+    margin-right: 200px;
+ 
+
+}
+
+Col.hero_img{
+    margin: 0;
+}
