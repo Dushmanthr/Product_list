@@ -64,3 +64,8 @@ section{
   padding: 60px 0px;
 
 }
+
+.section_title{
+  color:var(--primary-color);
+  font-weight: 600;
+}

@@ -2,16 +2,26 @@
     background: var(--hero-bg);
 }
 
-.hero_img{
-    max-width: 100px;
-    max-height: 100px;
-    float:inline-end;
-    margin-top: 0;
-    margin-right: 200px;
- 
-
+.hero_section h2{
+    color: var(--primary-color);
+    font-size: 2.5rem;
+    font-weight: 600;
+    
 }
 
-Col.hero_img{
-    margin: 0;
+.hero_section p{
+    color: #111;
+    line-height: 28px;
+}
+
+.buy_btn{
+    border: none;
+    outline: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    background: var(--primary-color);
+    color: #fff;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 40px;
 }

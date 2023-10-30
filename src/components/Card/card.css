@@ -1,0 +1,27 @@
+.product_item{
+    cursor: pointer;
+}
+
+.count{
+    float: right;
+    color: var(--primary-color);
+    font-weight: 400;
+}
+
+.product-info{
+    font-size: 1.2rem;
+    color:var(--primary-color);
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.product-info span{
+    font-style: 0.9rem;
+}
+
+.product_card-bottom .price{
+    color: red;
+    font-style: 1.3rem;
+    font-weight: 500;
+}
+
