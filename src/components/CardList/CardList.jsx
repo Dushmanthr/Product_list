@@ -1,13 +1,14 @@
 import React from 'react'
 import Card from '../Card/Card'
 
-const Cardlist = () => {
+const Cardlist = ({products}) => {
   return (
     <>
-      <Card/>
-      <Card/>
-      <Card/>
-      <Card/>
+    {products.map((product) =>(
+        <Card key={product.id} product={product}/>
+    ))}
+       
+      
     </>
   )
 }

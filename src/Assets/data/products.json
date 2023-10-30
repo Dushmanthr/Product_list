@@ -4,14 +4,14 @@
     {
         "id": 1,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "images/eco-logo.png",
+        "imgUrl": "images/phone-01.png",
         "availability": 12,
         "Price": 1550.00
     },
     {
         "id": 2,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "images/user-icon.png",
+        "imgUrl": "images/phone-02.png",
         "availability": 58,
         "Price": 15520.00
     },
