@@ -1,0 +1,21 @@
+/* cardlist.css */
+.card-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: -8px; /* Adjust the margin as needed */
+  }
+  
+  .card {
+    flex-basis: calc(25% - 16px); /* 4 cards in each row, adjust margin as needed */
+    margin: 8px; /* Adjust the margin as needed */
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+.card-container{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}  

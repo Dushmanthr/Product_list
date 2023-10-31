@@ -1,16 +1,17 @@
-import React from 'react'
-import Card from '../Card/Card'
+import React from 'react';
+import Card from '../Card/Card';
+import './cardlist.css';
 
-const Cardlist = ({products}) => {
+const CardList = ({ products }) => {
   return (
-    <>
-    {products.map((product) =>(
-        <Card key={product.id} product={product}/>
-    ))}
-       
-      
-    </>
-  )
-}
+    <div className="card-container">
+      <div className="card-row">
+        {products.map((product) => (
+          <Card key={product.id} product={product} />
+        ))}
+      </div>
+    </div>
+  );
+};
 
-export default Cardlist
+export default CardList;

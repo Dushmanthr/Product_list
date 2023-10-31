@@ -4,18 +4,106 @@
     {
         "id": 1,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "images/phone-01.png",
+        "imgUrl": "../images/phone-01.jpg",
         "availability": 12,
         "Price": 1550.00
     },
     {
         "id": 2,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "images/phone-02.png",
+        "imgUrl": "../images/phone-02.jpg",
         "availability": 58,
         "Price": 15520.00
     },
     {
-
+        "id": 3,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 4,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 5,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 6,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 7,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 8,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 9,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 10,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 11,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 12,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 13,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 14,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
+    },
+    {
+        "id": 15,
+        "Product_name": "Samsung Galaxy",
+        "imgUrl": "../images/phone-02.jpg",
+        "availability": 58,
+        "Price": 15520.00
     }
 ]
