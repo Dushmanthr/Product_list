@@ -3,15 +3,16 @@ import {motion} from "framer-motion"
 import './card.css'
 import {Col} from 'reactstrap'
 
-import ProductImg1 from "../../Assets/images/phone-01.jpg"
+import ImageCarousel from "../Carousel/Carousel"
 
 const Card = ({product}) => {
-  console.log('Image URL:', product.imgUrl);
+  //console.log('Image URL:', product.imgUrl);
   return (
     <Col lg='3' md='4'>
         <div className="product_item">
         <div className="product_img">
-            <motion.img whileHover={{scale:0.9}} src={ProductImg1} alt="" />
+             {/* <motion.img whileHover={{scale:0.9}} src={product.imgUrl} alt="" />  */}
+            <ImageCarousel imgUrl={product.imgUrl} />
         </div>
         <div className='p-2 product-info'>
         <h3 className="product_name">{product.Product_name}</h3>

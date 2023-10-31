@@ -22,7 +22,7 @@ const Home = () => {
     } else {
       setTimeout(() => {
         setShowMore(showMore + 1); // Load one more card at a time
-      }, 800); // Simulate a delay to show loading
+      }, 600); // Simulate a delay to show loading
     }
   };
 

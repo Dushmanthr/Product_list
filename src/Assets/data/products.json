@@ -4,106 +4,178 @@
     {
         "id": 1,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-01.jpg",
+        "imgUrl": [
+            "https://i.ibb.co/xsk6vYf/phone-05.jpg",
+            "https://i.ibb.co/VpZzxQb/phone-01.jpg",
+            "https://i.ibb.co/nQLHkXw/phone-02.jpg"
+        ],
         "availability": 12,
         "Price": 1550.00
     },
     {
         "id": 2,
-        "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
-        "Price": 15520.00
+        "Product_name": "Silver Watches",
+        "imgUrl": [
+            "https://i.ibb.co/Bc3sRCJ/watch-03.jpg",
+            "https://i.ibb.co/CVyFSw1/watch-02.jpg",
+            "https://i.ibb.co/0VRgNQG/watch-01.jpg"
+
+        ],
+        "availability": 25,
+        "Price": 2100.00
     },
     {
         "id": 3,
-        "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
-        "Price": 15520.00
+        "Product_name": "Wireless Head",
+        "imgUrl":  [
+            "https://i.ibb.co/JKmB9wK/wireless-03.png",
+            "https://i.ibb.co/XthQFbt/wireless-02.png",
+            "https://i.ibb.co/mvGsBbs/wireless-01.png"
+
+        ],
+        "availability": 87,
+        "Price": 3399.00
     },
     {
         "id": 4,
-        "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
-        "Price": 15520.00
+        "Product_name": "Double Sofa",
+        "imgUrl": [
+            "https://i.ibb.co/xsk6vYf/phone-05.jpg",
+            "https://i.ibb.co/VpZzxQb/phone-01.jpg",
+            "https://i.ibb.co/nQLHkXw/phone-02.jpg"
+        ],
+        "availability": 32,
+        "Price": 159000.00
     },
     {
         "id": 5,
-        "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
-        "Price": 15520.00
+        "Product_name": "Arm Chair",
+        "imgUrl":  [
+            "https://i.ibb.co/t2P2b5H/arm-chair-02.jpg",
+            "https://i.ibb.co/j3wSD9r/arm-chair-01.jpg",
+            "https://i.ibb.co/7VBFX2M/arm-chair-03.jpg"
+
+        ],
+        "availability": 12,
+        "Price": 48000.00
     },
     {
         "id": 6,
-        "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
-        "Price": 15520.00
+        "Product_name": "Single Sofa",
+        "imgUrl":  [
+            "https://i.ibb.co/0Yt07Rc/single-sofa-04.png",
+            "https://i.ibb.co/PjnkdMH/single-sofa-01.jpg",
+            "https://i.ibb.co/StdS1SN/single-sofa-02.jpg"
+
+        ],
+        "availability": 12,
+        "Price": 28000.00
     },
     {
         "id": 7,
-        "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
-        "Price": 15520.00
+        "Product_name": "Counter Timer",
+        "imgUrl":  [
+            "https://i.ibb.co/DV97p6M/phone-06.jpg",
+            "https://i.ibb.co/tLVLyzR/phone-04.jpg",
+            "https://i.ibb.co/4PnYcSD/phone-03.png"
+        ],
+        "availability": 5,
+        "Price": 18000.00
     },
     {
         "id": 8,
-        "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
+        "Product_name": "Kitchen Accessories ",
+        "imgUrl":  [
+            "https://i.ibb.co/JKmB9wK/wireless-03.png",
+            "https://i.ibb.co/XthQFbt/wireless-02.png",
+            "https://i.ibb.co/mvGsBbs/wireless-01.png"
+
+        ],
         "availability": 58,
-        "Price": 15520.00
+        "Price": 6500.00
     },
     {
         "id": 9,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
+        "imgUrl":  [
+            "https://i.ibb.co/JKmB9wK/wireless-03.png",
+            "https://i.ibb.co/XthQFbt/wireless-02.png",
+            "https://i.ibb.co/mvGsBbs/wireless-01.png"
+
+        ],
+        "availability":14,
         "Price": 15520.00
     },
     {
         "id": 10,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
+        "imgUrl":  [
+            "https://i.ibb.co/JKmB9wK/wireless-03.png",
+            "https://i.ibb.co/XthQFbt/wireless-02.png",
+            "https://i.ibb.co/mvGsBbs/wireless-01.png"
+
+        ],
+        "availability": 89,
         "Price": 15520.00
     },
     {
         "id": 11,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
+        "imgUrl":  [
+            "https://i.ibb.co/JKmB9wK/wireless-03.png",
+            "https://i.ibb.co/XthQFbt/wireless-02.png",
+            "https://i.ibb.co/mvGsBbs/wireless-01.png"
+
+        ],
+        "availability": 16,
         "Price": 15520.00
     },
     {
         "id": 12,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
+        "imgUrl":  [
+            "https://i.ibb.co/JKmB9wK/wireless-03.png",
+            "https://i.ibb.co/XthQFbt/wireless-02.png",
+            "https://i.ibb.co/mvGsBbs/wireless-01.png"
+
+        ],
+        "availability": 78,
         "Price": 15520.00
     },
     {
         "id": 13,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
+        "imgUrl":  [
+            "https://i.ibb.co/JKmB9wK/wireless-03.png",
+            "https://i.ibb.co/XthQFbt/wireless-02.png",
+            "https://i.ibb.co/mvGsBbs/wireless-01.png"
+
+        ],
+        "availability": 47,
         "Price": 15520.00
     },
     {
         "id": 14,
         "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
+        "imgUrl":  [
+            "https://i.ibb.co/JKmB9wK/wireless-03.png",
+            "https://i.ibb.co/XthQFbt/wireless-02.png",
+            "https://i.ibb.co/mvGsBbs/wireless-01.png"
+
+        ],
+        "availability": 9,
         "Price": 15520.00
     },
     {
         "id": 15,
-        "Product_name": "Samsung Galaxy",
-        "imgUrl": "../images/phone-02.jpg",
-        "availability": 58,
-        "Price": 15520.00
+        "Product_name": "Smart Watches",
+        "imgUrl":  [
+            "https://i.ibb.co/JKmB9wK/wireless-03.png",
+            "https://i.ibb.co/XthQFbt/wireless-02.png",
+            "https://i.ibb.co/mvGsBbs/wireless-01.png"
+
+        ],
+        "availability": 20,
+        "Price": 7800.00
     }
 ]
