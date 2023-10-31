@@ -7,7 +7,7 @@ const Carousel = ({ imgUrl }) => {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentImageIndex((prevIndex) => (prevIndex + 1) % imgUrl.length);
-    }, 3000); // Change image every 3 seconds (adjust as needed)
+    }, 3000); 
 
     return () => clearInterval(interval);
   }, [imgUrl]);
